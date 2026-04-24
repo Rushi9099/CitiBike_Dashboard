@@ -2,6 +2,8 @@
 
 > Master's Research Project — **Group 15** — Saint Louis University, John Cook School of Business (JAP, 2026)
 
+### **→ Live demo: [citi-bike-dashboard.vercel.app](https://citi-bike-dashboard.vercel.app/)**
+
 An interactive decision-support web app + Power BI dashboard that analyzes ~1 million Citi Bike trips from **May 2025** to help service planners, operations managers, and rebalancing teams make data-driven decisions about peak-hour demand, station imbalance, and member utilization.
 
 ---
@@ -10,9 +12,10 @@ An interactive decision-support web app + Power BI dashboard that analyzes ~1 mi
 
 | Resource | Link |
 |---|---|
-| **Solution App (React)** | _deploy URL goes here — Vercel/Netlify_ |
+| **Solution App (React)** | **[citi-bike-dashboard.vercel.app](https://citi-bike-dashboard.vercel.app/)** |
 | **Power BI Dashboard (.pbix)** | [Google Drive](https://drive.google.com/file/d/1sstMB7H-AJH3yhLMCLPFNX9jL8o-PNX1/view?usp=sharing) |
-| **Portfolio Site** | _GitHub Pages URL goes here_ |
+| **Source Code** | [github.com/Rushi9099/CitiBike_Dashboard](https://github.com/Rushi9099/CitiBike_Dashboard) |
+| **Portfolio Site** | _GitHub Pages URL — coming soon_ |
 
 > **How to open the Power BI file:** download the `.pbix` from Google Drive, then open with [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free). A view-only web link will be added once published to Power BI Service.
 
