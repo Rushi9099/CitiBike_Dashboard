@@ -13,9 +13,10 @@ An interactive decision-support web app + Power BI dashboard that analyzes ~1 mi
 | Resource | Link |
 |---|---|
 | **Solution App (React)** | **[citi-bike-dashboard.vercel.app](https://citi-bike-dashboard.vercel.app/)** |
+| **Portfolio Site** | **[citibike-portfolio.vercel.app](https://citibike-portfolio.vercel.app/)** |
 | **Power BI Dashboard (.pbix)** | [Google Drive](https://drive.google.com/file/d/1sstMB7H-AJH3yhLMCLPFNX9jL8o-PNX1/view?usp=sharing) |
-| **Source Code** | [github.com/Rushi9099/CitiBike_Dashboard](https://github.com/Rushi9099/CitiBike_Dashboard) |
-| **Portfolio Site** | _GitHub Pages URL — coming soon_ |
+| **Source Code (App)** | [github.com/Rushi9099/CitiBike_Dashboard](https://github.com/Rushi9099/CitiBike_Dashboard) |
+| **Source Code (Portfolio)** | [github.com/Rushi9099/Citibike_Portfolio](https://github.com/Rushi9099/Citibike_Portfolio) |
 
 > **How to open the Power BI file:** download the `.pbix` from Google Drive, then open with [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) (free). A view-only web link will be added once published to Power BI Service.
 
