@@ -156,13 +156,11 @@ All page components (`Home`, `Demand`, `Stations`, `Riders`, `Imbalance`, `DataF
 
 ## Team — Group 15
 
-_Team member names go here — please update before submission_
-
-- Member 1 — Role
-- Member 2 — Role
-- Member 3 — Role
-- Member 4 — Role
-- Member 5 — Role
+- Nithin Kumar Adki
+- Aditya Anguri
+- Rushi Chandra Gannamaneni
+- Sandeep Eshwar Datta Narsin
+- Bharat Reddy Palukuri
 
 ---
 
